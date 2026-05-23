@@ -7,14 +7,14 @@
   },
   "server": {
     "ip": "Elysian_SMP.aternos.me",
-    "port": 18528,
-    "version": "1.21.1",
+    "port": ,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
     "enabled": false,
     "x": 0,
-    "y": 100,
+    "y": 93,
     "z": 0
   },
   "utils": {
